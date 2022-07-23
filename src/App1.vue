@@ -11,7 +11,7 @@
 export default {
   data(){
     return{
-      arr:['帅哥','美女','程序员','野兽']
+      arr:['帅哥','美女','程序员','野兽','修改']
     }
   },
   methods:{
